@@ -1,0 +1,13 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "tsc app.ts && node app.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
